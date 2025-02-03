@@ -1,0 +1,5 @@
+snowflake-sqlalchemy
+snowflake-connector-python[secure-local-storage,pandas]
+pandas
+jupyterlab
+python-dotenv
