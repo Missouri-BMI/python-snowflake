@@ -27,7 +27,7 @@ To set up a virtual environment and install the required dependencies, follow th
 
 4. **Run the test scripts**:
     ```bash
-    python test-notebook.py
+    python test-snwoflake-connector.py
     python test-sqlalchemy.py
     ```
 
